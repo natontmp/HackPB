@@ -1,2 +1,0 @@
-# HackPB
-Hack all server
